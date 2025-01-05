@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\API\\API\\API.csproj": {}
+    "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\UI\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\API\\API\\API.csproj": {
+    "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\UI\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\UI\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\UI\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Doha Tech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\Doha Tech\\Desktop\\Projects\\Library-Management-System\\UI\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doha Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
